@@ -29,7 +29,9 @@ Para instalar la biblioteca puede leer la documentación en su [web oficial](htt
 * Una vez detro, dirijase al apartado `Agregar una biblioteca`, pegue el siguiente código y presione `Agregar una biblioteca`.
 
 ```
-Mo6Ljr7ZKrMeYO9mHqOdo9oxc-w7mEonb
+CÓDIGO DE BIBLIOTECA: Mo6Ljr7ZKrMeYO9mHqOdo9oxc-w7mEonb
 ```
 
 Luego de agregar la biblioteca, copie el contenido del código .cs en el editor de comandos.
+
+Para enviar el mail, debe llamar a la función enviarEmail() y aceptar los permisos en caso de requerirse.
