@@ -1,6 +1,7 @@
 # Funcionalidades de Google AppScript
 
-Diversas funcionalidades desarrolladas en Google AppScript para integrar en documentos de G Suite. Para conocer más (https://www.google.com/script/start/).  Las funciones listadas a continuación son desarrolladas y probadas por mi para atender un requerimiento especifico que se me presentó.
+Diversas funcionalidades desarrolladas en [Google AppScript](https://www.google.com/script/start/) para integrar en documentos de [G Suite](https://gsuite.google.com).
+Las funciones listadas a continuación son desarrolladas y probadas por mi para atender un requerimiento especifico que se me presentó.
 
 ### 1.0.0 Inicio
 
